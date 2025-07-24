@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://github.com/Ahsan1Murtaza">
-    <img height="150em" src="https://drive.google.com/drive/folders/1wznI_dSqA8evk9kFbUalbxe1o5hncw4B?dmr=1&ec=wgc-drive-hero-goto"/>
+    <img height="150em" src="language stat.png"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ahsan1Murtaza">
-    <img src="https://drive.google.com/drive/folders/1wznI_dSqA8evk9kFbUalbxe1o5hncw4B?dmr=1&ec=wgc-drive-hero-goto"/>
+    <img src="github stat.png"/>
    
   </a>
 </p>
