@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/Ahsan1Murtaza](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan1Murtaza&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)">
-    <img src="[github stat.png](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan1Murtaza&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)"/>
+  <a >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan1Murtaza&theme=solarized-light&show_icons=true&hide_border=true&layout=compact"/>
    
   </a>
 </p>
