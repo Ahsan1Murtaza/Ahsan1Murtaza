@@ -6,9 +6,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ahsan1Murtaza">
-    <img height="150em" src="language stat.png"/>
-  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=solarized-light&preferLogin=false">    <img  alt="Ahsan1Murtaza's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahsan1Murtaza?cardType=github&theme=solarized-light&preferLogin=false" />  </a>
 </p>
 
 <p align="center">
@@ -17,6 +15,7 @@
    
   </a>
 </p>
+
 
 ---
 
