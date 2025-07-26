@@ -6,14 +6,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=solarized-light&preferLogin=false">    <img  alt="Ahsan1Murtaza's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahsan1Murtaza?cardType=github&theme=solarized-light&preferLogin=false" />  </a>
+     <img  alt="Ahsan1Murtaza's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahsan1Murtaza?cardType=github&theme=solarized-light&preferLogin=false" /> 
 </p>
 
 <p align="center">
-  <a >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan1Murtaza&theme=solarized-light&show_icons=true&hide_border=true&layout=compact"/>
-   
-  </a>
 </p>
 
 
