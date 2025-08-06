@@ -13,9 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan1Murtaza&theme=solarized-light&show_icons=true&hide_border=true&layout=compact" alt="Ahsan1Murtaza's GitHub Stats" />
 </p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=Ahsan1Murtaza&theme=solarized-light&hide_border=true" alt="Ahsan1Murtaza's GitHub Stats" />
-</p>
 
 ---
 
