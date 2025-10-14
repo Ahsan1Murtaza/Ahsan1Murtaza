@@ -1,20 +1,44 @@
 <h1 align="center">Hi 👋, I'm Ahsan Murtaza</h1>
-<h3 align="center">🚀 Software Engineer | 🔐 Builder of Intelligent Systems</h3>
+<h3 align="center">🚀 Software Engineer | ⚙️ System Builder</h3>
 
 <p align="center">
-  <em>I love building cool stuff with code - from interpreters and authentication systems to modern web apps.</em><br>
-  <em>Currently sharpening my skills in Java Backend Development.</em>
+  <em>Currently sharpening my backend mastery in <b>Java, Spring Boot</b>.</em>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Core Projects
 
-- 💻 Currently working on: **Nexa — a custom interpreter built from scratch in C++**
-- 🔨 Recent Projects: **Task Manager**, **Advanced Authentication System**, **Chess Game**
-- 🌱 Learning: **DSA**, **Spring Boot**, **Spring**, **Cloud & AI Integrations**
-- ⚡ Fun fact: I treat bugs as puzzles - the harder, the better.
-- 🎯 Goal: To become a **high-impact b|Backend Engineer** who can turn complex ideas into scalable software.
+### ⚡ SnapGit
+> A lightweight **version control system** built in **C++**, inspired by Git.  
+> Features branching, commits and a minimal **remote server** for pushing, pulling and cloning repositories.
+
+---
+
+### 🧮 Nexa Interpreter
+> A full-fledged **custom interpreter** with its own **lexer**, **parser**, and **AST evaluator** - built from scratch in **C++**.  
+> Focused on **language design**, **expression evaluation**, and **runtime execution flow**.
+
+---
+
+### 🛒 E-Commerce Web App
+> A production-style **web platform** with authentication, product listings, cart management and order tracking and payment gateway integration.  
+
+---
+
+## 🧰 Other Projects
+
+### ✅ Task Manager
+> Full-featured task tracker with priorities, analytics, and status visualization.
+
+### 🔐 Advanced Authentication System
+> Secure authentication system with **email verification**, **password reset** and **token-based access control**.
+
+### 💬 Chatzy (.NET)
+> Real-time chat application built in **.NET**, focusing on efficient message routing and connection handling.
+
+### 🎮 Chess & Checkers
+> Classic board games built using **Java Swing** and **Tkinter**, applying object-oriented principles and GUI event logic.
 
 ---
 
@@ -22,29 +46,17 @@
 
 ### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,cs,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,mongodb,postgres" />
 </p>
 
----
-
-## 🧰 Projects Showcase
-
-### 🧮 Nexa Interpreter
-> A lightweight interpreter built in C++ featuring custom lexer, parser, and AST evaluator.
-
-### ✅ Task Manager
-> A task-tracking web app with priority handling, completion reports, and an analytics dashboard.
-
-### 🔐 Advanced Authentication System
-> Full authentication flow with email verification, password reset, and token-based security.
-
-### 🎮 Chess Game
-> Classic Chess built with Swing — object-oriented logic, GUI event handling, and game-logic.
+<p align="center">
+  <b>Includes:</b> Spring Boot • Spring Security • ReactJS • ExpressJS • Microservices Architecture
+</p>
 
 ---
 
