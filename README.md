@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Core Projects
+## 🧠 Core Projects (Currently Working ON)
 
 ### ⚡ SnapGit
 > A lightweight **version control system** built in **C++**, inspired by Git.  
