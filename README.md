@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahsan Murtaza</h1>
-<h3 align="center">🚀 Software Engineer | ⚙️ System Builder</h3>
 
 <p align="center">
   <em>Currently sharpening my backend mastery in <b>Java, Spring Boot</b>.</em>
