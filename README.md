@@ -1,29 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahsan Murtaza</h1>
 
-<p align="center">
-  <em>Currently sharpening my backend mastery in <b>Java, Spring Boot</b>.</em>
-</p>
 
 ---
 
-## 🧠 Core Projects (Currently Working ON)
+## 🧠 Core Project
 
 ### ⚡ SnapGit
 > A lightweight **version control system** built in **C++**, inspired by Git.  
-> Features branching, commits and a minimal **remote server** for pushing, pulling and cloning repositories.
 
 ---
 
-### 🧮 Nexa Interpreter
-> A full-fledged **custom interpreter** with its own **lexer**, **parser**, and **AST evaluator** - built from scratch in **C++**.  
-> Focused on **language design**, **expression evaluation**, and **runtime execution flow**.
-
----
-
-### 🛒 E-Commerce Web App
-> A production-style **web platform** with authentication, product listings, cart management and order tracking and payment gateway integration.  
-
----
 
 ## 🧰 Other Projects
 
