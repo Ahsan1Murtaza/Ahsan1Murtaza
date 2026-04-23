@@ -5,6 +5,7 @@ Software Engineering student focused on building **backend systems, full-stack a
 My primary specialization is in Java-based backend development using the Spring ecosystem and system design. Alongside this, I am adaptable and comfortable working across multiple technology stacks, including Javascript and Python ecosystems.
 
 I enjoy solving problems at both the application level and the system design level, and I actively build projects that simulate real-world software systems.
+
 ---
 
 ## 🧠 Tech Stack
